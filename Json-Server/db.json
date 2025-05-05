@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1234",
+      "email": "abc@gmail.com",
+      "phone": "1234567"
+    },
+    {
+      "id": "1693",
+      "name": "khushi",
+      "email": "khushi@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "947f",
+      "name": "khushi",
+      "email": "khushi@gmail.com",
+      "phone": "1234567890"
+    }
+  ]
+}

@@ -16,7 +16,7 @@
 
 //  let arr = [10,20,"khushi",30,40,"abc"];
 
-//  arr.shift();              // shif method aagl thi remove thay
+//  arr.shift();              // shift method aagl thi remove thay
 //  console.log(arr);
 
     // arr.unshift("hello");    // unsift method aagl thi add thay
